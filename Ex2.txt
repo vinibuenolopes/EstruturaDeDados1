@@ -1,0 +1,7 @@
+         |Melhor caso | Pior Caso |
+          
+enqueue  | Omega (1)  | O(1)      |
+dequeue  | Omega (1)  | O(1)      |
+front    | Omega (1)  | O(1)      |
+empty    | Omega (1)  | O(1)      |
+busca    | Omega (1)  | O(n)      |
